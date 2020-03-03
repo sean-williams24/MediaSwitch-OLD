@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>89855417041-jfcsgdq8t46tachk8u5kpu2fomtnjc7g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.89855417041-jfcsgdq8t46tachk8u5kpu2fomtnjc7g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADsd2-gXF1W3YLKNqWa5-sEd6qRLCU_Vs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>89855417041</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.seanwilliams.MediaSwitch</string>
+	<key>PROJECT_ID</key>
+	<string>mediaswitch-e7c45</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mediaswitch-e7c45.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:89855417041:ios:8219832d2f47904798c3f0</string>
+	<key>DATABASE_URL</key>
+	<string>https://mediaswitch-e7c45.firebaseio.com</string>
+</dict>
+</plist>
